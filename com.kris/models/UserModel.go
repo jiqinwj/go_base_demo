@@ -6,8 +6,6 @@ type UserModel struct {
 }
 
 func (u *UserModel) SetValue(id int ,name string) {
-
-
 	u.Uname=name
 	u.Uid=id
 }

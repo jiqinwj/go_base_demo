@@ -5,6 +5,7 @@ type UserModel struct {
 	Uname string
 }
 
+
 func (u *UserModel) SetValue(id int ,name string) {
 	u.Uname=name
 	u.Uid=id

@@ -1,0 +1,1258 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="referrer" content="always" />
+    <title>新闻列表 - 第9页 - IT新闻 - 博客园</title>
+    <meta name="keywords" content="IT新闻,it news,互联网新闻,业界新闻,IT资讯,IT业界,新闻频道" />
+    <meta name="description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link id="rsslink" title="rss" type="application/rss+xml" rel="alternate" href="http://feed.cnblogs.com/news/rss" />
+    <link rel="shortcut icon" href="//common.cnblogs.com/favicon.ico" />
+    <link rel="stylesheet" href="/Content/bundles/news.css?v=cuCwtDU8u3qMQmdg4FqdpiGm8kE_bdPAC8dwp2ZqiZ4" />
+    <link rel="stylesheet" type="text/css" href="//mention.cnblogs.com/css/mention-simple.css?id=20160613">
+    <link id="smallScreen" rel="stylesheet" type="text/css" media="screen and (max-width:768px)" href="/Content/smallScreen.css?v=GlO31drTET0WWWUZP_UBq7R7fDulVJecCIbanv3sLyM" />
+    <script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bundles/news.js?v=xmOnXLqj90VLd00pU_eMhVeEWyQBC2iRIdGsQWJZuzE"></script>
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    <script>
+        googletag.cmd.push(function () {
+            googletag.defineSlot('/1090369/news_E1', [728, 90], 'div-gpt-ad-1533633736227-0').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E2', [300, 250], 'div-gpt-ad-1533633736227-1').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E3', [300, 250], 'div-gpt-ad-1533633736227-2').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E4', [468, 60], 'div-gpt-ad-1533633736227-3').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+</head>
+<body>
+    <a name="top"></a>
+    <div id="wrap"> 
+        <div id="header">
+            <a name="top"></a>
+            <div id="wrapper_top_block">
+                <div id="login_area">
+                </div>
+                <div id="top_mini_nav_block">&laquo; <a href="//www.cnblogs.com" class="dark_gray" title="程序员的网上家园">网站首页</a> <a href="http://zzk.cnblogs.com/" class="dark_gray">找找看</a></div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div id="main_wrapper">
+        <div id="main_header">
+            <div class="header_div">
+                <div class="logo">
+                    <a href="//www.cnblogs.com"><img src="/Images/logo.gif" alt="logo" /></a>
+                </div>
+                <div class="banner">
+                    <div id="clubHeader_panelNews">
+                        <div id='e1'>
+                            <div id='div-gpt-ad-1533633736227-0' style='height:90px; width:728px;'>
+                                <script>
+                                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1533633736227-0'); });
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mainmenu">
+                <div class="feedback_block">
+                    <a href="//group.cnblogs.com/forum/public/">反馈问题或建议</a>
+                </div>
+                <ul id="navlist_main">
+                    <li style="margin-left:20px;"><a href="//www.cnblogs.com">首页</a></li>
+                    <li>
+                        <a href="//home.cnblogs.com">园子</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li id="clubHeader_liNews">
+                        <a id="clubHeader_lnkNews" title="IT新闻" class="current" href="/">新 闻</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkQuestionMenu" href="//q.cnblogs.com/">博问</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkIngMenu" href="//ing.cnblogs.com/">闪存</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lnkWz" href="//wz.cnblogs.com/">收藏</a>
+                    </li>
+                    <li>
+                        <a href="//job.cnblogs.com">招聘</a>
+                    </li>
+                    <li>
+                        <a href="//kb.cnblogs.com">知识库</a>
+                    </li>
+                    <li id="clubHeader_liMyMessage">
+                    </li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+                if (typeof (jQuery) != 'undefined') {
+                    GetUserInfo();
+                }
+            </script>
+        </div>
+        <div id="sideleft">
+    <div id="guide" style="display:none;">
+        <h3>
+            <a href="//www.cnblogs.com" title="程序员的网上家园">博客园</a> » <a href="/" title="IT新闻">新闻</a><span id="lbMobileAuditTips" style="display:none;"></span>
+        </h3>
+    </div>
+    <div id="navcontainer" class="floatright" style="padding-top: 1px;">
+        <ul id="navlist">
+            <li><a href="/" class="current">最新发布</a></li>
+            <li><a href="/n/recommend">推荐新闻</a></li>
+            <li><a href="/n/digg">热门新闻</a></li>
+            <li><a href="/n/comment">新闻评论</a></li>
+        </ul>
+    </div>
+    <div class="clear">
+    </div>
+    <div id="news_list">
+            <div class="news_block" id="entry_653397">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653397,'agree')">
+                        <span id="digg_num_653397" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653397" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653397/" target="_blank">谷歌发布Android安全补丁：修复诸多漏洞</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1.htm"><img src="https://img2018.cnblogs.com/news_topic/20190730073028742-506112123.png" class="topic_img" alt=""/></a>
+                        作者：雪花 对于谷歌来说，他们明显加快了对 Android 系统漏洞的修复。 今天，谷歌放出了新的 Android 系统的补丁，主要是修复一些重要的安全漏洞，而在这之前，系统中已经发现了超过 40 多个漏洞，出现地方也很广泛，比如在媒体框架，内核组件中。 本次谷歌推送的 Android 安全补丁中，
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653397#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">148 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Android/" class="gray">Android</a> </span>
+                        发布于 <span class="gray">2020-01-10 09:30</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653378">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653378,'agree')">
+                        <span id="digg_num_653378" class="diggnum">2</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653378" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653378/" target="_blank">微波通信入门，新人必读！</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        微波天线 微波通信，英文是 Microwave Communication，是指使用微波（Microwave）作为载波，携带信息，进行中继通信的方式。 微波，是频率范围 300MHz~3THz 的电磁波（1THz=1000GHz），也就是说，波长范围是 1 米~0.1 毫米（光速=波长&#215;频率）。 事
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653378#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">753 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E9%80%9A%E4%BF%A1/" class="gray">通信</a> </span>
+                        发布于 <span class="gray">2020-01-10 09:13</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653396">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653396,'agree')">
+                        <span id="digg_num_653396" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653396" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653396/" target="_blank">Endless OS 宣布将推出适用于 Raspberry Pi 的版本</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_672.htm"><img src="//images2015.cnblogs.com/news_topic/20160105124657700-16657861.png" class="topic_img" alt=""/></a>
+                        除了官方操作系统 Raspbian 之外，Raspberry Pi 还支持 Windows 10 IoT Core、Ubuntu Core 和 OpenElec 等系统。现在，Endless OS 也将很快加入这个行列。 在 2020 年国际消费电子展（CES 2020）上，Endless 公司现场
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653396#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">426 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/" class="gray">操作系统</a> </span>
+                        发布于 <span class="gray">2020-01-10 09:03</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653395">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653395,'agree')">
+                        <span id="digg_num_653395" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653395" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653395/" target="_blank">首张黑洞照片拍完后，科学家又计划对黑洞“录像”了</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_319.htm"><img src="https://img2018.cnblogs.com/news_topic/20181019121101783-952728829.gif" class="topic_img" alt=""/></a>
+                        出品：新浪科技《科学大家》 撰文：Sheperd Doeleman 天文学家，事件视界望远镜团队负责人，哈佛大学教授 如何去拍摄一个连光线都无法逃脱的天体“黑洞”？设想尽管光线一旦进入黑洞便无法逃离，但是我们可以拍摄它的边缘，就是那些即将落入黑洞之前的气体物质。通过这样的观测，我们也可以去检验爱因斯
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653395#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">340 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%A4%A9%E6%96%87/" class="gray">天文</a> </span>
+                        发布于 <span class="gray">2020-01-10 09:01</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653394">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653394,'agree')">
+                        <span id="digg_num_653394" class="diggnum">7</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653394" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653394/" target="_blank">iPhone 13岁了！</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_82.htm"><img src="https://img2018.cnblogs.com/news_topic/20190822140314801-1842879152.png" class="topic_img" alt=""/></a>
+                        13 年前的今天，乔布斯在在旧金山的 Macworld 上台并向世人展示了 iPhone，谁也没有想到，日后苹果靠着它改变了智能手机行业，也改变了移动领域。 iPhone 13 周年意味着苹果的旗舰产品正式进入青少年时期。虽然苹果不再透露有关 iPhone 的销量数据，但分析师估计，该公司 iPho
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653394#comment" class="gray" target="_blank">评论(5)</a></span><span class="view">1334 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/iPhone/" class="gray">iPhone</a> </span>
+                        发布于 <span class="gray">2020-01-10 08:56</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653393">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653393,'agree')">
+                        <span id="digg_num_653393" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653393" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653393/" target="_blank">Linus Torvalds&#160;不建议使用&#160;ZFS On Linux</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_96.htm"><img src="https://img2018.cnblogs.com/news_topic/20190829145513482-1679241842.gif" class="topic_img" alt=""/></a>
+                        Linux 内核创建者 Linus Torvalds 最近回应&#160;Linux 内核调度器存在问题的文章引发了大家的关注，在同一个帖子里，他还回复了一名用户抱怨 Linux 内核最近破坏了内核源码树外 ZFS 模块的评论。 Linus 表明了自己对&#160;ZFS On Linux 的态度，在 Oracle 对
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653393#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">585 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Linux/" class="gray">Linux</a> </span>
+                        发布于 <span class="gray">2020-01-10 08:54</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653392">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653392,'agree')">
+                        <span id="digg_num_653392" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653392" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653392/" target="_blank">被罚50亿美元后谷歌改变做法 欧盟用户可自主选择默认搜索引擎</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1.htm"><img src="https://img2018.cnblogs.com/news_topic/20190730073028742-506112123.png" class="topic_img" alt=""/></a>
+                        谷歌首席执行官桑达尔&#183;皮查伊（Sundar Pichai） 腾讯科技讯，1 月 10 日消息，据外媒报道，在谷歌 2018 年被欧盟监管机构罚款 50 亿美元后，欧盟的安卓用户很快就可以在设置新手机或平板电脑时，从包括谷歌在内的四个选项列表中选择他们的默认搜索引擎。 美国当地时间周四，谷歌宣布，Du
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653392#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">257 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%B0%B7%E6%AD%8C/" class="gray">谷歌</a> </span>
+                        发布于 <span class="gray">2020-01-10 08:53</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653391">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653391,'agree')">
+                        <span id="digg_num_653391" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653391" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653391/" target="_blank">外媒称存储芯片行业撑过寒冬 价格迎来复苏</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        网易科技讯，1 月 10 日消息，据国外媒体报道，在经历了痛苦的一年之后，存储芯片制造商有理由相信该行业的下滑已经结束。 全球最大的存储芯片制造商三星电子发布的财报预测超出分析师预期，这是该公司业绩反弹的最新迹象。同业竞争对手美光科技去年 12 月曾表示，该行业正在撑过最糟糕的日子。 5G 技术推广
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653391#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">163 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%8A%AF%E7%89%87/" class="gray">芯片</a> </span>
+                        发布于 <span class="gray">2020-01-10 08:52</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653390">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653390,'agree')">
+                        <span id="digg_num_653390" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653390" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653390/" target="_blank">媒体：二代个人征信系统本月将上线</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        作者：懒猫 IT 之家 1 月 10 日消息今日，新京报援引央行征信中心方面消息，第二代个人征信系统暂定 1 月 20 日上线，此前将会有一段维护期。 据多家媒体报道，新版个人征信系统将能够体现夫妻双方的负债情况；信息更新也会更加及时；大额信用卡分期还将体现分期时间和分期金额等。 1 月 6 日，中
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653390#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">535 人浏览</span>
+                        
+                        发布于 <span class="gray">2020-01-10 08:50</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653389">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653389,'agree')">
+                        <span id="digg_num_653389" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653389" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653389/" target="_blank">浙江经信公布人工智能5大榜单 网易易盾内容安全解决方案上榜</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_126.htm"><img src="//images0.cnblogs.com/news_topic/163.gif" class="topic_img" alt=""/></a>
+                        昨日，浙江省经济和信息化厅（以下简称：“浙江经信”）发布了人工智能 5 大榜单，网易易盾榜上有名。 据悉，本榜单评选是经企业自愿申报，各地经信部门推荐、浙江省经信厅组织专家评选后确定。最终，入围的有浙江省人工智能领军企业（高校院所）12 家、行业应用标杆企业 45 家、行业应用培育企业 23 家、典
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653389#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">191 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/AI/" class="gray">AI</a> </span>
+                        发布于 <span class="gray">2020-01-10 08:18</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653388">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653388,'agree')">
+                        <span id="digg_num_653388" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653388" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653388/" target="_blank">天文学家通过哈勃望远镜发现宇宙膨胀速度超出了预期</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_319.htm"><img src="https://img2018.cnblogs.com/news_topic/20181019121101783-952728829.gif" class="topic_img" alt=""/></a>
+                        天文学家利用美国宇航局哈勃太空望远镜确定宇宙膨胀速度比预期的要快。研究小组利用引力透镜测量了膨胀率，称为哈勃常数。这是一种新的技术，完全独立于以往任何测量膨胀的方法。这项研究由一个名为H0LiCOW COSMOGRAIL的小组领导，该小组主通过引力透镜进行宇宙学监测。该团队主要成员是EPFL天体物理...
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653388#comment" class="gray" target="_blank">评论(4)</a></span><span class="view">292 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%A4%A9%E6%96%87/" class="gray">天文</a> </span>
+                        发布于 <span class="gray">2020-01-10 08:14</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653387">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653387,'agree')">
+                        <span id="digg_num_653387" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653387" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653387/" target="_blank">巴黎圣母院成“考古实验室”</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1482.htm"><img src="https://img2018.cnblogs.com/news_topic/20190627074037855-1184248927.jpg" class="topic_img" alt=""/></a>
+                        作者：唐一尘，来源：中国科学报 去年，法国巴黎圣母院大火震惊了全世界。现在，研究人员正在努力研究这座大教堂的内部结构。 2019 年 4 月的那场大火烧毁了巴黎圣母院的大部分建筑，现在，几个月过去了，法国国家研究中心（CNRS）的科学家正着手用数百万欧元，研究这座有着 850 年历史的建筑及其材料，
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653387#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">284 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%80%83%E5%8F%A4/" class="gray">考古</a> </span>
+                        发布于 <span class="gray">2020-01-10 08:12</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653386">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653386,'agree')">
+                        <span id="digg_num_653386" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653386" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653386/" target="_blank">世界各地尝试app定制公交服务，为何大多不成功</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        原标题：Cities Struggle to Boost Ridership With ‘Uber for Transit’ Schemes 网易科技讯，1 月 10 日消息，据国外媒体报道，世界各地的城市在尝试基于应用预约的定制公交服务，但往往收效甚微。 自去年 9 月以来，上海松江-张江 9 路
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653386#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">359 人浏览</span>
+                        
+                        发布于 <span class="gray">2020-01-10 08:09</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653385">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653385,'agree')">
+                        <span id="digg_num_653385" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653385" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653385/" target="_blank">Intel新10核CPU功耗爆炸，AMD Zen 2笑了</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_12.htm"><img src="https://img2018.cnblogs.com/news_topic/20190816170602986-490377958.png" class="topic_img" alt=""/></a>
+                        作者：万南 在 CES 展会上，Intel 公司主要展示了旗下的 DG1 显卡、Tiger Lake 处理器及 Commet Lake-H 处理器，但是桌面版的十代酷睿 Comet Lake-S 彗星湖处理器没有如期那样发布，有些遗憾，最新消息称这是跟 10 核处理器的功耗有关，还需要时间优化。 十
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653385#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">673 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/CPU/" class="gray">CPU</a> </span>
+                        发布于 <span class="gray">2020-01-10 08:05</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653384">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653384,'agree')">
+                        <span id="digg_num_653384" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653384" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653384/" target="_blank">扎克伯格放弃年度个人挑战 设未来十年五大大目标</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_358.htm"><img src="https://img2018.cnblogs.com/news_topic/20190823073538571-1095729341.png" class="topic_img" alt=""/></a>
+                        原标题：Zuckerberg extends his annual personal challenge to decade-long themes, listing a new private social platform, AR/VR, and new forms of community g
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653384#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">313 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Facebook/" class="gray">Facebook</a> </span>
+                        发布于 <span class="gray">2020-01-10 07:56</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653383">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653383,'agree')">
+                        <span id="digg_num_653383" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653383" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653383/" target="_blank">谷歌市值接近1万亿美元 分析师普遍认为其广告业务将出现强劲增长</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1.htm"><img src="https://img2018.cnblogs.com/news_topic/20190730073028742-506112123.png" class="topic_img" alt=""/></a>
+                        腾讯科技讯，据外媒报道，在分析师对谷歌母公司 Alphabet 在 2020 年的发展前景发表了一系列积极的评论后，该股周四收盘上涨 1.05%，其市值已接近 1 万亿美元。 至少有三家公司上调了该股的目标股价，而华尔街知名投行 KeyBanc Capital Markets 将其列为今年在互联网领
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653383#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">138 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%B0%B7%E6%AD%8C/" class="gray">谷歌</a> </span>
+                        发布于 <span class="gray">2020-01-10 07:55</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653382">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653382,'agree')">
+                        <span id="digg_num_653382" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653382" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653382/" target="_blank">UOS系统母公司迈诚科技澄清：还处于发展初期，未与华为深度合作</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1601.htm"><img src="https://img2018.cnblogs.com/news_topic/20191118110542765-1937689295.png" class="topic_img" alt=""/></a>
+                        作者：远洋 IT 之家 1 月 9 日消息&#160;今天有消息称，开发 UOS 系统的统信软件跟华为达成了深度合作，利好消息使得统信软件的母公司迈诚科技股价今日涨停。 然而，迈诚科技发公告澄清称，公司注意到近期有媒体报道公司参股子公司统信软件为“国产操作系统新旗舰”等信息，截至目前，武汉深之度科技有限公司股
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653382#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">347 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/UOS/" class="gray">UOS</a> </span>
+                        发布于 <span class="gray">2020-01-09 22:11</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653381">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653381,'agree')">
+                        <span id="digg_num_653381" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653381" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653381/" target="_blank">当代魔马携手金山云 以“智慧社区”见证传统地产转型</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_2632.htm"><img src="https://img2018.cnblogs.com/news_topic/20191224105035867-1868128056.png" class="topic_img" alt=""/></a>
+                        1 月 7 日下午，由北京房地产经理人联盟组织的新春团拜会在当代置业举办。会上，来自中交地产、龙湖地产、当代置业、港中旅地产、北京文投集团、北京森润地产、远洋地产等数十家地产企业的负责人、高管齐聚一堂，共同就新技术应用和地产行业转型升级发展话题进行交流。 在他们的见证下，当代置业旗下北京魔马科技有限
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653381#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">92 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E9%87%91%E5%B1%B1%E4%BA%91/" class="gray">金山云</a> </span>
+                        发布于 <span class="gray">2020-01-09 22:09</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653380">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653380,'agree')">
+                        <span id="digg_num_653380" class="diggnum">3</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653380" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653380/" target="_blank">古埃及人十几味香料放下去，腌出来的木乃伊为什么比咸菜更耐久？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        相信大家就听过很多关于木乃伊的故事。作为一种墓葬方法，古埃及的木乃伊寄托了法老们渴望灵魂复活的愿望。而它们的存在也让我们更好地了解古代文化。 你有没有想过，穿越千年不变、保存完整的木乃伊究竟是如何制作？除了人体外，动物的木乃伊又是如何制作？ 01 在古埃及人看来，人死了之后，精神上的灵魂是不会消亡。
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653380#comment" class="gray" target="_blank">评论(4)</a></span><span class="view">623 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%80%83%E5%8F%A4/" class="gray">考古</a> </span>
+                        发布于 <span class="gray">2020-01-09 22:05</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653379">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653379,'agree')">
+                        <span id="digg_num_653379" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653379" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653379/" target="_blank">为对抗大联大收购？传文晔拿下ADI代理权！</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        1 月 9 日消息，今天业内爆出传闻，半导体元器件分销商文晔科技已成功签下全球第二大模拟芯片厂商 ADI 的代理权。 根据 IC Insights 发布的 2018 年全球十大模拟 IC 厂商营收和排名数据显示，ADI 以 55.05 亿美元的营收排名第二，市场份额为9%。不过，与排名第一的德州仪器
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653379#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">162 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%8D%8A%E5%AF%BC%E4%BD%93/" class="gray">半导体</a> </span>
+                        发布于 <span class="gray">2020-01-09 20:36</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653377">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653377,'agree')">
+                        <span id="digg_num_653377" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653377" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653377/" target="_blank">诺基亚宣布已获得63份商业5G合同，拥有超2000个5G关键专利</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_141.htm"><img src="//images0.cnblogs.com/news_topic/nokia.png" class="topic_img" alt=""/></a>
+                        北京时间 1 月 9 日，诺基亚通过官网宣布，截至目前，其已经在全球范围内达成 63 个商业 5G 合同，并且不包括任何其他类型的 5G 协议，例如付费网络试用，试点或演示等。如果将这些协议包括在内，则 5G 协议的总数将达到 100 多个。 诺基亚移动网络总裁 Tommi Uitto 表示：“这一
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653377#comment" class="gray" target="_blank">评论(2)</a></span><span class="view">328 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/5G/" class="gray">5G</a> </span>
+                        发布于 <span class="gray">2020-01-09 20:29</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653376">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653376,'agree')">
+                        <span id="digg_num_653376" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653376" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653376/" target="_blank">铠侠存储工厂火灾最新情况！</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        7 日上午，铠侠四日市 NAND 闪存工厂中一台制造设备发生起火，火势随即被扑灭，由于事发当时未到工作时间，并未造成任何的人员伤亡。 日经新闻 8 日的报道指出，针对火灾一事，铠侠表示，由于只有一台设备受损，预计不会对生产造成影响。 据了解，这次发生火灾的四日市工厂是铠侠生产闪存的重要基地，而 Fa
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653376#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">185 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E9%97%AA%E5%AD%98/" class="gray">闪存</a> </span>
+                        发布于 <span class="gray">2020-01-09 20:27</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653375">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653375,'agree')">
+                        <span id="digg_num_653375" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653375" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653375/" target="_blank">面对高管不断被判入狱 三星紧急设立“反犯罪委员会”</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_251.htm"><img src="https://img2018.cnblogs.com/news_topic/20190906161325617-1698330440.png" class="topic_img" alt=""/></a>
+                        腾讯科技讯，进入 2020 年，外界认为韩国三星电子在经营中面临的另外一个重大变数是高管的诉讼和审判，最近一段时间，三星电子已经有诸多高管被法院判处有期徒刑。在这样的大背景下，韩国三星集团的负责人周四表示，该集团已设立一个新的监督机构，负责杜绝内部员工刑事犯罪行为，而这一机构将邀请一些外部专家进入。
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653375#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">164 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%B8%89%E6%98%9F/" class="gray">三星</a> </span>
+                        发布于 <span class="gray">2020-01-09 20:22</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653374">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653374,'agree')">
+                        <span id="digg_num_653374" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653374" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653374/" target="_blank">软银罕见一幕！我的公司，就这样被投资方拖死了</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_825.htm"><img src="//images2015.cnblogs.com/news_topic/20170215120802707-1327265605.png" class="topic_img" alt=""/></a>
+                        作者：杨莉 千亿巨无霸愿景基金，也放“鸽子”了。 投资界（ID：pedaily2912）1 月 9 日消息，据外媒报道，软银集团旗下的愿景基金最近已经放弃了对三家初创公司的投资。仅仅几个月前，愿景基金还承诺投资，一度表示推迟投资只是暂时情况。如今，软银集团正式证实了放弃投资的消息，并且表示“遗憾”。
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653374#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">880 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%BD%AF%E9%93%B6/" class="gray">软银</a> </span>
+                        发布于 <span class="gray">2020-01-09 18:47</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653373">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653373,'agree')">
+                        <span id="digg_num_653373" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653373" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653373/" target="_blank">Google Chrome 将隐藏弹出式通知</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_145.htm"><img src="https://img2018.cnblogs.com/news_topic/20191025104913585-6919525.png" class="topic_img" alt=""/></a>
+                        在 Mozilla 之后，Google 也采取行动限制恼人的弹出式通知。计划在 2020 年 2 月 4 日释出的 Chrome 80 将默认屏蔽大部分弹出式通知，改用在地址栏显示有通知的图标，类似 Firefox 的做法——在地址栏显示通知的文字泡泡。 Chrome 的设置将引入一个新的选项，用户
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653373#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">259 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Chrome/" class="gray">Chrome</a> </span>
+                        发布于 <span class="gray">2020-01-09 18:44</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653372">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653372,'agree')">
+                        <span id="digg_num_653372" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653372" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653372/" target="_blank">Steam开卖原声OST：无需购买游戏、提供无损音源</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_709.htm"><img src="//images2015.cnblogs.com/news_topic/20160405091227578-2087639521.png" class="topic_img" alt=""/></a>
+                        作者：万南 OST（原声音轨）往往能起到画龙点睛的作用，甚至成为很多人记住一款作品的关键因素。 在全球最大的数字游戏发行平台 Steam 上，原生音轨通常作为 DLC 出售，但与特定功能绑定的设定也给玩家带来了不好的体验。 对此，Steam 宣布将“原生音轨”作为新的应用类型全新推出，使得玩家无需购
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653372#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">217 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Steam/" class="gray">Steam</a> </span>
+                        发布于 <span class="gray">2020-01-09 18:42</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653371">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653371,'agree')">
+                        <span id="digg_num_653371" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653371" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653371/" target="_blank">CES上仿施瓦辛格机器人亮相：能表达600多种表情</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_624.htm"><img src="//images2015.cnblogs.com/news_topic/20150911111442153-33706165.png" class="topic_img" alt=""/></a>
+                        网易科技讯，1 月 9 日消息，据外媒报道，好莱坞影星阿诺&#183;施瓦辛格(Arnold Schwarzenegger)曾饰演的未来机器人“终结者”，给人们留下了深刻印象。在 2020 年 CES 展会上，以施瓦辛格为原型的一款机器人首次亮相，不禁让人回想起他的那句经典台词：我会回来的！ 这款机器人名为 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653371#comment" class="gray" target="_blank">评论(1)</a></span><span class="view">353 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%9C%BA%E5%99%A8%E4%BA%BA/" class="gray">机器人</a> </span>
+                        发布于 <span class="gray">2020-01-09 18:38</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653370">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653370,'agree')">
+                        <span id="digg_num_653370" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653370" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653370/" target="_blank">“欧洲互联网之父”因脑瘤去世 享年86岁</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        “欧洲互联网之父”彼得&#183;柯斯坦（Peter Kirstein）逝世 腾讯科技讯，1 月 9 日消息，据外媒报道，被公认为“欧洲互联网之父”的英国计算机科学家彼得&#183;柯斯坦(Peter Kirstein)于当地时间周三在伦敦的家中去世，享年 86 岁。柯斯坦的女儿萨拉&#183;林恩&#183;布莱克(Sara Lynn 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653370#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">169 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%BA%BA%E7%89%A9/" class="gray">人物</a> </span>
+                        发布于 <span class="gray">2020-01-09 18:33</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653369">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653369,'agree')">
+                        <span id="digg_num_653369" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653369" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653369/" target="_blank">致力于大数据产业化应用，中科泽达获千万级融资</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        作者：yorke 投资界（微信 ID：pedaily2012）消息，中科泽达（北京中科泽达科技有限公司）已于&#160;2019 年 12 月获得千万元人民币融资。 中科泽达是一家由中国科学院计算机网络信息中心出资组建的高新技术企业，依托大数据分析与计算技术国家地方联合工程实验室和中科院计算机网络信息中心的优
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653369#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">81 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%9E%8D%E8%B5%84/" class="gray">融资</a> </span>
+                        发布于 <span class="gray">2020-01-09 17:37</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_653368">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(653368,'agree')">
+                        <span id="digg_num_653368" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_653368" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/653368/" target="_blank">鲁大师2019年度显卡性能排行：NV TITAN RTX夺冠 AMD未进前五</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        作者：朝晖 继处理器、内存、硬盘之后，今日鲁大师又发布了 2019 年度显卡性能排行。榜单显示，NVIDIA TITAN RTX 顺利夺冠，且前五名都是N卡，A卡未进前五名。 鲁大师表示，作为作为 RTX 2080 Ti 进阶版，NVIDIA TITAN RTX 拥有同款 TU102 核心，每秒最多
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp; <span class="comment"><a href="/n/653368#comment" class="gray" target="_blank">评论(0)</a></span><span class="view">420 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%98%BE%E5%8D%A1/" class="gray">显卡</a> </span>
+                        发布于 <span class="gray">2020-01-09 17:36</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+        <!--end: news_block -->
+            <div class="clear">
+            </div>
+    </div>
+     <div class="pager"><a href="/n/page/8/">&lt; Prev</a><a href="/" class="p_1 first">1</a><span class="ellipsis">···</span><a href="/n/page/5/" class="p_5 middle">5</a><a href="/n/page/6/" class="p_6 middle">6</a><a href="/n/page/7/" class="p_7 middle">7</a><a href="/n/page/8/" class="p_8 middle">8</a><a href="/n/page/9/" class="p_9 current">9</a><a href="/n/page/10/" class="p_10 middle">10</a><a href="/n/page/11/" class="p_11 middle">11</a><a href="/n/page/12/" class="p_12 middle">12</a><a href="/n/page/13/" class="p_13 middle">13</a><span class="ellipsis">···</span><a href="/n/page/100/" class="p_100 last">100</a><a href="/n/page/10/">Next &gt;</a></div>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        LoadNewsCategory("NewsCategoryId",11,0);
+        //新闻列表-右侧编辑推荐新闻
+        CommonLoadNews("/NewsAjax/GetRecommendNews", "RecommendNewsId", 7);
+        //新闻列表-右侧今日新闻排行
+        CommonLoadNews("/NewsAjax/GetHotNews", "HotNewsId", 10);
+        //新闻列表-右侧24小时推荐排行
+        CommonLoadNews("/NewsAjax/GetHotByDiggCount", "HotByDiggCountId", 7);
+        //新闻列表-右侧热门IT新闻
+        CommonLoadNews("/NewsAjax/GetRecentHotNews", "RecentHotNewsId", 10);
+        //新闻列表-右侧最新评论
+        LoadSideComments("NewsIndexCommentsId", 15);
+        CheckAudit();
+        LoadIndexSideInfo();
+    });
+</script>
+        <div id="sideright">            
+            
+<div style="margin-top:25px;">
+    <span id="lbAuditTips" style="display:none;"></span>
+    <div class="news_home_navlink">
+        <div id="rss_sub_top" class="rss_sub">
+            <a href="http://feed.cnblogs.com/news/rss" title="博客园IT新闻RSS订阅"><img src="//common.cnblogs.com/images/icon_rss.gif" alt="RSS订阅" /></a>
+        </div>
+        <div style="line-height:30px;">
+            &gt; <a href="/n/publish/" class="big redlink">投递新闻</a><br />
+            &gt; <a href="/n/date/" class="big">新闻日历</a><br />
+            &gt; <a href="/n/topiclist/" class="big">新闻主题</a><br />
+        </div>
+    </div>
+    <div class="clear">
+    </div>
+    <br />
+    <div id="side_right_search">
+        <input type="text" id="google_search_q" size="27" class="side_right_search_q" onkeydown="return google_search_enter(event);" />
+        <input type="submit" name="sa" value="搜索新闻" class="side_right_search_sa" onclick="return google_search();" />
+    </div>
+<div class="side_block">
+    <div class="a4content" id="e2">
+        <div id='div-gpt-ad-1533633736227-1' style='height:250px; width:300px;'>
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1533633736227-1'); });
+            </script>
+        </div>
+    </div>
+</div>
+    <div class="side_block" id="cate_news">
+        <h3 class="title_yellow">
+            新闻类别
+        </h3>
+        <div class="indent" id="NewsCategoryId">
+        </div>
+    </div>
+    <div id="HotNews1_panelToday">
+        <div class="side_block" id="last_news">
+            <h3 class="title_blue">
+                今日新闻排行
+            </h3>
+            <ul class="topnews block_list bt" id="HotNewsId">
+            </ul>
+        </div>
+    </div>
+    <div class="side_block">
+        <h3 class="title_yellow">
+            编辑推荐新闻
+        </h3>
+        <ul class="topnews block_list bt" id="RecommendNewsId">
+        </ul>
+    </div>
+    <div id="HotNews1_panelDiggTop">
+        <div class="side_block" id="Div1">
+            <h3 class="title_green">
+                24小时推荐排行
+            </h3>
+            <ul class="topnews block_list bt" id="HotByDiggCountId">
+            </ul>
+        </div>
+    </div>
+    <div class="side_block" id="hot_news">
+        <h3 class="title_red">
+            热门IT新闻
+        </h3>
+        <ul class="topnews block_list bt" id="RecentHotNewsId">
+        </ul>
+    </div>
+<div class="side_block">
+    <div id="e3">
+        <div id='div-gpt-ad-1533633736227-2' style='height:250px; width:300px;'>
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1533633736227-2'); });
+            </script>
+        </div>
+    </div>
+</div>
+    <div class="side_block">
+        <h3 class="title_green">
+            最新评论
+        </h3>
+        <ul class="block_list" id="NewsIndexCommentsId">
+        </ul>
+        <a href="/Comment">
+            <img src="/Images/more_comment.gif" title="更多最新评论" style="float: right; margin: 7px;" alt="" />
+        </a>
+        <div style="clear: both;">
+        </div>
+    </div>
+    <a name="more"></a>
+    <div id="rss_sub_bottom" class="rss_sub">
+        <a href="http://feed.cnblogs.com/news/rss" title="博客园IT新闻RSS订阅"><img src="//common.cnblogs.com/images/icon_rss_news.gif" alt="RSS订阅" /></a>
+        <a href="//news.cnblogs.com/m" rel="nofollow" title="博客园新闻频道手机版"><img src="/Images/ico_ing_cellphone.gif" alt="手机版" /></a>
+    </div>
+</div>
+
+        </div>
+        <div class="clear">
+        </div>
+        <div id="footer">
+            <div id="foot">
+                <a href="//www.cnblogs.com/AboutUS.aspx">关于博客园</a>
+                <a href="//www.cnblogs.com/ContactUs.aspx">联系我们</a>
+                <a href="//www.cnblogs.com/ad.aspx">广告服务</a>
+                <span>&copy;2004-2020</span>
+                <a href="//www.cnblogs.com">博客园</a>
+                 Powered by ASP.NET Core on Linux
+            </div>
+            <div id="footMobile" style="display:none;">
+                <span>&copy;2004-2020</span>&nbsp;<a href="//www.cnblogs.com">博客园</a>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-476124-8']);
+            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </div>
+</body>
+</html>

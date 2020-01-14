@@ -1,9 +1,6 @@
-package services
+package servicesb
 
-type IService interface {
-    Get(id int) string
-
-}
+import "go_base_demo/com.kris/core"
 
 type ServiceFactory struct {
 
@@ -13,14 +10,14 @@ func NewServiceFactory()  *ServiceFactory{
 	return  &ServiceFactory{}
 }
 
-func (sf *ServiceFactory) Create(name string)  IService {
+func (sf *ServiceFactory) Create(name string)  core.IService {
 
 	switch name {
-	  case "news":
+	case "news":
 		return &NewsService{}
-	  case "user":
+	case "user":
 		return &UserService{}
-	  default:
+	default:
 		return nil
 
 	}

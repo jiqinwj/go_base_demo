@@ -1,9 +1,9 @@
-package services
+package servicesb
 
 type UserService struct {
 
 }
 
 func (us *UserService) Get(id int) string  {
-	return "单个用户信息"
+	return "领导B-单个用户信息"
 }

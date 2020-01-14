@@ -1,5 +1,9 @@
 package services
 
-func GetNews()  string {
-	return "新闻信息"
+type NewsService struct  {
+
+}
+
+func (ns *NewsService) Get(id int) string {
+	return "单新闻内容"
 }

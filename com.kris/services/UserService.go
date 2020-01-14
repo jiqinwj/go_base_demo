@@ -1,14 +1,9 @@
 package services
 
-import (
-	"go_base_demo/com.kris/models"
-)
+type UserService struct {
 
-func GetUser()  string {
-
-    user:=new(models.UserModel)
-    user.SetValue(123,"lisi")
-
-	return user.ToString()
 }
 
+func (us *UserService) Get(id int) string  {
+	return "单个用户信息"
+}

@@ -1,7 +1,6 @@
 package submodels
 
 import (
-
 	"github.com/pquerna/ffjson/ffjson"
 	"go_base_demo/com.kris/models"
 )

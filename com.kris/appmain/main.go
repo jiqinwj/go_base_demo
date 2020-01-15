@@ -1,11 +1,13 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
-	"io/ioutil"
-	"net/http"
+	"io"
+	"os"
 	"sync"
+	"time"
 )
 
 func main() {
@@ -120,94 +122,116 @@ func main() {
 	//
 	//}
 
-//	//TODO 协程阻塞
-//	url := "https://news.cnblogs.com/n/page/%d/"
-//	c := make(chan map[int][]byte)
-//	for i := 1; i <= 10; i++ {
-//		go func(index int) {
-//			defer func() {
-//				if err := recover(); err != nil {
-//					fmt.Println(err)
-//				}
-//
-//			}()
-//			url := fmt.Sprintf(url, index)     //格式化字符串，生成每一页的页码url
-//			res, _ := http.Get(url)            //利用http库 读取网页内容，返回response对象
-//			cnt, _ := ioutil.ReadAll(res.Body) //读出response的body部分
-//
-//			c <- map[int][]byte{index: cnt} //把结果构建成一个map 插入到channel 里面
-//		}(i)
-//	}
-//
-//	//
-//	//for getcnt:=range c{ //主线程干的事，不断的range channel,直至channel被关闭
-//	//
-//	//	 for k,v:=range getcnt{
-//	//	  ioutil.WriteFile(fmt.Sprintf("./files/%d",k),v,666)  //把内容写入到文件中
-//	//}
-//	//
-//	//
-//	//}
-//	result := map[int][]byte{}
-//myloop:
-//	for {
-//		select {
-//		case result = <-c:
-//			for k, v := range result {
-//				ioutil.WriteFile(fmt.Sprintf("E:/go_start/go_base_demo/com.kris/files/%d",k),v,666)  //把内容写入到文件中
-//
-//			}
-//		case <-time.After(time.Second * 3):
-//			break myloop
-//
-//		}
-//
-//	}
+	//	//TODO 协程阻塞
+	//	url := "https://news.cnblogs.com/n/page/%d/"
+	//	c := make(chan map[int][]byte)
+	//	for i := 1; i <= 10; i++ {
+	//		go func(index int) {
+	//			defer func() {
+	//				if err := recover(); err != nil {
+	//					fmt.Println(err)
+	//				}
+	//
+	//			}()
+	//			url := fmt.Sprintf(url, index)     //格式化字符串，生成每一页的页码url
+	//			res, _ := http.Get(url)            //利用http库 读取网页内容，返回response对象
+	//			cnt, _ := ioutil.ReadAll(res.Body) //读出response的body部分
+	//
+	//			c <- map[int][]byte{index: cnt} //把结果构建成一个map 插入到channel 里面
+	//		}(i)
+	//	}
+	//
+	//	//
+	//	//for getcnt:=range c{ //主线程干的事，不断的range channel,直至channel被关闭
+	//	//
+	//	//	 for k,v:=range getcnt{
+	//	//	  ioutil.WriteFile(fmt.Sprintf("./files/%d",k),v,666)  //把内容写入到文件中
+	//	//}
+	//	//
+	//	//
+	//	//}
+	//	result := map[int][]byte{}
+	//myloop:
+	//	for {
+	//		select {
+	//		case result = <-c:
+	//			for k, v := range result {
+	//				ioutil.WriteFile(fmt.Sprintf("E:/go_start/go_base_demo/com.kris/files/%d",k),v,666)  //把内容写入到文件中
+	//
+	//			}
+	//		case <-time.After(time.Second * 3):
+	//			break myloop
+	//
+	//		}
+	//
+	//	}
+
+	//TODO sync 阻塞
+	//var wg sync.WaitGroup
+	//
+	//url := "https://news.cnblogs.com/n/page/%d/"
+	//// c:=make(chan map[int][]byte)
+	//for i := 1; i <= 10; i++ {
+	//	go func(index int) {
+	//		defer func() {
+	//			if err := recover(); err != nil {
+	//				fmt.Println(err)
+	//			}
+	//			wg.Done()
+	//		}()
+	//		url := fmt.Sprintf(url, index)     //格式化字符串，生成每一页的页码url
+	//		res, _ := http.Get(url)            //利用http库 读取网页内容，返回response对象
+	//		cnt, _ := ioutil.ReadAll(res.Body) //读出response的body部分
+	//		//c<-map[int][]byte{index:cnt} //把结果构建成一个map 插入到channel 里面
+	//		ioutil.WriteFile(fmt.Sprintf("E:/go_start/go_base_demo/com.kris/files/%d", index), cnt, 666)
+	//	}(i)
+	//	wg.Add(1)
+	//}
+	////result:=map[int][]byte{}
+	////myloop:for{
+	////select {
+	////case result=<-c:
+	////	 for k,v:=range result{
+	////		 ioutil.WriteFile(fmt.Sprintf("./files/%d",k),v,666)  //把内容写入到文件中
+	////	 }
+	////case <-time.After(time.Second*3):
+	////	 	break myloop
+	////
+	////}
+	//wg.Wait()
+	//fmt.Println("抓取完毕")
 
 
- //TODO sync 阻塞
+
+	//TODO 协程waitGroup + 互斥锁
 	var wg sync.WaitGroup
+	var locker sync.Mutex
+	file,_:=os.OpenFile("E:/go_start/go_base_demo/com.kris/test",os.O_RDONLY,666)
+	defer  file.Close()
+	fw:=bufio.NewReader(file)
 
-
-	url:="https://news.cnblogs.com/n/page/%d/"
-	// c:=make(chan map[int][]byte)
-	for i:=1;i<=10;i++{
+	for i:=1;i<=2;i++{
 		go func(index int) {
-			defer func() {
-				if err:=recover();err!=nil{
+			defer  wg.Done()
+			for{
+				locker.Lock()
+				str,err:=fw.ReadString('\n')
+				if err!=nil{
+					if err==io.EOF{
+						locker.Unlock()
+						break
+					}
 					fmt.Println(err)
 				}
-				wg.Done()
-			}()
-			url:=fmt.Sprintf(url,index)  //格式化字符串，生成每一页的页码url
-			res,_:=http.Get(url)  //利用http库 读取网页内容，返回response对象
-			cnt,_:= ioutil.ReadAll(res.Body) //读出response的body部分
-			//c<-map[int][]byte{index:cnt} //把结果构建成一个map 插入到channel 里面
-			ioutil.WriteFile(fmt.Sprintf("E:/go_start/go_base_demo/com.kris/files/%d",index),cnt,666)
+				time.Sleep(time.Millisecond*200)
+				fmt.Printf("【协程%d】:%s",index,str)
+				locker.Unlock()
+			}
 		}(i)
-		wg.Add(1)
 	}
-	//result:=map[int][]byte{}
-	//myloop:for{
-	//select {
-	//case result=<-c:
-	//	 for k,v:=range result{
-	//		 ioutil.WriteFile(fmt.Sprintf("./files/%d",k),v,666)  //把内容写入到文件中
-	//	 }
-	//case <-time.After(time.Second*3):
-	//	 	break myloop
-	//
-	//}
+	wg.Add(2)
 	wg.Wait()
-	fmt.Println("抓取完毕")
-
-
-
-
-
-
-
-
+	fmt.Println("读取完成")
 
 
 

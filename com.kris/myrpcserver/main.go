@@ -1,9 +1,9 @@
 package main
 
 import (
+	"go_base_demo/com.kris/pbfiles"
 	"net"
 	"net/rpc"
-	"com.jtthink.net/pbfiles"
 )
 
 
